@@ -1,6 +1,6 @@
 ## SIMPLE CUE PARSER
 
-Made with npm 8.19.4 and Node Gallium!
+Made with **npm 8.19.4** and **Node Gallium**!
 
 This is my implementation to parse cue files after recording DJ mixing! 
 
