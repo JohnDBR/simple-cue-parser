@@ -1,0 +1,18 @@
+## SIMPLE CUE PARSER
+
+Made with npm 8.19.4 and Node Gallium!
+
+This is my implementation to parse cue files after recordind DJ mixing! 
+
+Find me on [SoundCloud](https://soundcloud.com/john-david-barbosa)!
+
+---
+Run with 
+```bash
+npm start
+```
+
+Then copy and paste! 
+
+---
+Enjoy!
