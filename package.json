@@ -1,0 +1,14 @@
+{
+  "name": "cue-parser",
+  "version": "1.0.0",
+  "description": "John Imp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "JohnDBR",
+  "license": "ISC",
+  "dependencies": {
+    "cue-parser": "^0.3.0"
+  }
+}
